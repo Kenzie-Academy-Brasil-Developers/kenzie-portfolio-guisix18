@@ -70,9 +70,10 @@ export const Home = (): JSX.Element => {
                 Vamos trocar uma ideia?
               </Text>
               <Text as="p" type="body1" color="grey2">
-                No linkedIn sempre estou compartilhando meus processos diários
-                para desenvolver esses projetos e estou disposto a trocar
-                algumas ideias por lá
+                No LinkedIn sempre estou compartilhando meus projetos e a minha evolução.
+
+                Acesse, lá tem todos os meus projetos também, tais como links para
+                vê-los diretamente do seu computador ou dar uma olhada no código fonte!
               </Text>
               <Button
                 type="primary"
